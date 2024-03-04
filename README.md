@@ -6,7 +6,7 @@
   I make tools for <u>OSINT</u>, <u>CSINT</u>, <u>Discord</u>, <u>ETC</u>.
 </p>
 <p align="center">
-  <img src="https://github.com/infuscate/infuscate/assets/162115857/b127a815-fe70-40e5-9425-e8717cf706fb">
+  <img src="https://github.com/infuscate/infuscate/assets/162115857/71dd2417-75d4-4784-beab-a154c6efe8e1">
 </p>
 
 <div align="center">
@@ -15,3 +15,4 @@
 <div align="center">
   <a href="http://www.github.com/infuscate"><img src="https://github-readme-streak-stats.herokuapp.com/?user=infuscate&stroke=ffffff&background=181824&ring=000000&fire=000000&currStreakNum=ffffff&currStreakLabel=000000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </div>
+![wumpus](https://github.com/infuscate/infuscate/assets/162115857/71dd2417-75d4-4784-beab-a154c6efe8e1)
