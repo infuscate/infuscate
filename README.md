@@ -1,9 +1,6 @@
 # 🔒 Infuscate
 <p align="center">
-  ~~Hello, I'm INFUSCATE~~.
-  I make plenty of randoms tools that I find interest in. I also sometimes upload information that could be useful. I make things tools for OSINT, CSINT, Discord, ETC.
-
-  I 
+  Hello, I'm INFUSCATE.\nI make tools for OSINT, CSINT, Discord, ETC.
 </p>
 <p align="center">
   <img src="https://github.com/infuscate/infuscate/assets/162115857/b127a815-fe70-40e5-9425-e8717cf706fb">
