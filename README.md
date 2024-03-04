@@ -1,6 +1,8 @@
 # 🔒 Infuscate
 <p align="center">
   Hello, I'm <strong>INFUSCATE</strong>.
+</p>
+<p align="center">
   I make tools for <u>OSINT</u>, <u>CSINT</u>, <u>Discord</u>, <u>ETC</u>.
 </p>
 <p align="center">
