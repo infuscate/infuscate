@@ -15,4 +15,3 @@
 <div align="center">
   <a href="http://www.github.com/infuscate"><img src="https://github-readme-streak-stats.herokuapp.com/?user=infuscate&stroke=ffffff&background=181824&ring=000000&fire=000000&currStreakNum=ffffff&currStreakLabel=000000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </div>
-![wumpus](https://github.com/infuscate/infuscate/assets/162115857/71dd2417-75d4-4784-beab-a154c6efe8e1)
